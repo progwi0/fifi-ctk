@@ -10,5 +10,5 @@ Simple text editor on CTk!
 
 ## Installation
 
-You can install Fifi via [Pix](https://github.com/progwi0/pix)!
-(or you can download Fifi in releases.)
+You can install Fifi (CTk) via [Pix](https://github.com/progwi0/pix)!
+(or you can download Fifi (CTk) in releases.)
